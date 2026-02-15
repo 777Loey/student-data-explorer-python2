@@ -1,0 +1,12 @@
+rows: 15
+average_maths: 70.33
+average_cs: 72.33
+average_physics: 67.0
+average_study_hours: 7.0
+average_attendance: 91.33
+top_student_by_average: S013
+top_average_score: 93.0
+lowest_student_by_average: S006
+lowest_average_score: 48.33
+corr_study_vs_average: 0.981
+corr_attendance_vs_average: 0.95
